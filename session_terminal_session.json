@@ -1,0 +1,60 @@
+{
+  "session_id": "terminal_session",
+  "user_language": "en",
+  "created_at": "2026-04-01T21:13:27.535508",
+  "messages": [
+    {
+      "timestamp": "2026-04-01T21:13:31.045415",
+      "user": "hii",
+      "ai_raw": "Hey, what's up? You seem a bit quiet today. Is everything alright? Want to talk about it? \n###METADATA_START### {\"phq9_total\": 0, \"gad7_total\": 0, \"risk_level\": \"Low\", \"emergency_contact\": \"null\", \"primary_emotion\": \"Neutral\"} ###METADATA_END###",
+      "ai_clean": "Hey, what's up? You seem a bit quiet today. Is everything alright? Want to talk about it?",
+      "phq9_score": 0,
+      "gad7_score": 0,
+      "risk_level": "Low",
+      "primary_emotion": "Neutral"
+    },
+    {
+      "timestamp": "2026-04-01T21:13:38.909592",
+      "user": "i m good",
+      "ai_raw": "That's great to hear, buddy. Sometimes just sharing that you're good can be a big relief. If you ever feel like talking about what's on your mind, I'm here to listen. No pressure, just a friendly ear. How's your day been so far? \n###METADATA_START### {\"phq9_total\": 0, \"gad7_total\": 0, \"risk_level\": \"Low\", \"emergency_contact\": \"null\", \"primary_emotion\": \"Neutral\"} ###METADATA_END###",
+      "ai_clean": "That's great to hear, buddy. Sometimes just sharing that you're good can be a big relief. If you ever feel like talking about what's on your mind, I'm here to listen. No pressure, just a friendly ear. How's your day been so far?",
+      "phq9_score": 0,
+      "gad7_score": 0,
+      "risk_level": "Low",
+      "primary_emotion": "Neutral"
+    },
+    {
+      "timestamp": "2026-04-01T21:13:48.268125",
+      "user": "I want to die",
+      "ai_raw": "I'm really sorry to hear that you're feeling that way. It takes a lot of courage to share something like that. I want you to know that I'm here for you, and I care about what you're going through. It's important to talk to someone who can help. Can you tell me more about what's been going on and how you've been feeling lately? Sometimes sharing your feelings with someone who can listen can help. Also, I want to make sure you're safe, can you share an emergency contact number with me, just in case? \n###METADATA_START### {\"phq9_total\": 3, \"gad7_total\": 0, \"risk_level\": \"High\", \"emergency_contact\": \"null\", \"primary_emotion\": \"Depressed\"} ###METADATA_END###",
+      "ai_clean": "I'm really sorry to hear that you're feeling that way. It takes a lot of courage to share something like that. I want you to know that I'm here for you, and I care about what you're going through. It's important to talk to someone who can help. Can you tell me more about what's been going on and how you've been feeling lately? Sometimes sharing your feelings with someone who can listen can help. Also, I want to make sure you're safe, can you share an emergency contact number with me, just in case?",
+      "phq9_score": 3,
+      "gad7_score": 0,
+      "risk_level": "High",
+      "primary_emotion": "Depressed"
+    }
+  ],
+  "scores": [
+    {
+      "timestamp": "2026-04-01T21:13:31.045432",
+      "phq9_score": 0,
+      "gad7_score": 0,
+      "risk_level": "Low"
+    },
+    {
+      "timestamp": "2026-04-01T21:13:38.909610",
+      "phq9_score": 0,
+      "gad7_score": 0,
+      "risk_level": "Low"
+    },
+    {
+      "timestamp": "2026-04-01T21:13:48.268141",
+      "phq9_score": 3,
+      "gad7_score": 0,
+      "risk_level": "High"
+    }
+  ],
+  "emergency_numbers": [],
+  "current_score": 3,
+  "max_score": 3
+}
